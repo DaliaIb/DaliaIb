@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Dalia Ibrahim from Egypt and now I am doing my PhD at Memorial University.  I’m currently working with a swarm of robots to finish some tasks. 
 <!--
 **DaliaIb/DaliaIb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
