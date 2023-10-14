@@ -2,16 +2,9 @@
 I am Dalia Ibrahim from Egypt and now I am doing my PhD at Memorial University.  I’m currently working with a swarm of robots to finish some tasks. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaliaIb&theme=dark&show_icons=true)
-
-
-
-### Hi there 👋, my name is Dalia Ibrahim
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I am  a PhD student at memorial university computer science department
-
-Skills: C++ /C# / JS / HTML / CSS
+ 
+##Skills: 
+C++ /C# / JS / HTML / CSS
 
 - 🔭 I’m currently working on Designing city road network for swarm of robots  
 - 🌱 I’m currently learning Java and SQL 
