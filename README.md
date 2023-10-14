@@ -1,5 +1,10 @@
 ### Hi there 👋
 I am Dalia Ibrahim from Egypt and now I am doing my PhD at Memorial University.  I’m currently working with a swarm of robots to finish some tasks. 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaliaIb&theme=dark&show_icons=true)
+
+
+
 <!--
 **DaliaIb/DaliaIb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
